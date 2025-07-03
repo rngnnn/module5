@@ -14,3 +14,16 @@ for i in range(len(num)):
 
 print(doubled_set) 
 
+# num = [...] → liste tanımı
+
+    #Python’da veri gruplarını saklamak için kullanılır.
+
+    #Köşeli parantez ([]) ile tanımlanır.
+
+    #İçinde tekrar eden değerler olabilir: örnek olarak 2 ve 8 bu listede iki kez geçiyor.
+    #    Python’da set, tekrar eden değerleri otomatik olarak siler.
+
+    #set içinde elemanlar benzersizdir.
+
+    #Sıralama garanti edilmez (yani her çalıştırmada sırası farklı olabilir).
+
